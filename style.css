@@ -1,0 +1,59 @@
+body {
+  text-align: center;
+  background: rgb(0,165,199);
+  background: radial-gradient(circle, rgba(1,85,119,1) 0%, rgba(1,76,109,1) 20%, rgba(1,1,27,1) 100%);
+  color: aqua;
+  /*background-repeat: no-repeat;*/
+}
+
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+p {
+  display: block;
+    font-family: cursive;
+}
+
+
+#socialnetwork_postion{
+  position: relative;
+   top: 30px;
+   left: 630px;
+   width: 250px;
+   text-align: center;
+  width: 210px ;
+  height: 70px ;
+}
+
+.color{
+  background-color: rgba(255,255,255,0.1);
+  color: aqua;
+  padding: 30px;
+  margin: 30px;
+  border-radius: 5px;
+}
+
+#presentation{
+  position: relative;
+   top: 30px;
+   left: 330px;
+   width: 250px;
+   text-align: center;
+  width: 810px ;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+}
+
+li.my_social_networks {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+.fab{
+  color: aqua;
+}
